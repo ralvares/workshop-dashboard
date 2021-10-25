@@ -1,4 +1,4 @@
-FROM quay.io/ralvares/ocp-security:terminal
+FROM quay.io/ralvares/workshop-terminal:0.1
 
 USER root
 
