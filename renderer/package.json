@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free": "^5.9.0",
     "asciidoctor": "^2.2.5",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.6.0",
     "js-yaml": "^3.13.1",
     "liquidjs": "^8.2.4",
